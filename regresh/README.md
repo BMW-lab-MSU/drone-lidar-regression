@@ -5,19 +5,19 @@ This repository contains the code and data for a machine learning regression mod
 ## Project Structure
 
 ```
-data/
-├── raw_data/
-│ ├── training_hdf/
-│ └── testing_hdf/
-├── processed_data/
+data
+├── raw_data
+│ ├── training_hdf
+│ └── testing_hdf
+├── processed_data
 └── labels/
-scripts/
+scripts
 ├── data_preprocessing.m
 ├── model_training.m
 └── evaluation.m
-models/
+models
 └── trained_model.mat
-results/
+results
 └── evaluation_results.txt
 README.md
 .gitignore
