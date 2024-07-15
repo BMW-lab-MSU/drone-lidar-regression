@@ -4,6 +4,7 @@ This repository contains the code and data for a machine learning regression mod
 
 ## Project Structure
 
+```
 data/
 ├── raw_data/
 │ ├── training_hdf/
@@ -20,3 +21,4 @@ results/
 └── evaluation_results.txt
 README.md
 .gitignore
+```
